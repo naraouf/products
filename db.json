@@ -1,0 +1,11 @@
+{
+  "products": [
+    { "id": 1, "codebarre": "123456", "name": "tommate", "count":0,"price":"", "market":"", "last_update":""},
+    { "id": 2, "codebarre": "2345678", "name": "haricots", "count":0,"price":"", "market":"", "last_update":""},
+    { "id": 3, "codebarre": "3456789", "name": "lait", "count":0, "price":"", "market":"", "last_update":""}
+  ],
+  "users": [
+    { "id": 1, "name": "toto", "postId": 1 },
+    { "id": 2, "name": "tata", "postId": 1 }
+  ]
+}
